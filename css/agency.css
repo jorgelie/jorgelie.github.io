@@ -162,7 +162,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #9b0000;
+  color: #e80000;
 }
 
 @media (min-width: 992px) {
@@ -723,11 +723,11 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 }
 
 .general .progress-bar{
-    background-color: #004C00;
+    background-color: #009900;
 }
 
 .other .progress-bar{
-    background-color: #9b0000;
+    background-color: #e80000;
 }
 
 .mail-link{
